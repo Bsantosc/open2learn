@@ -1,0 +1,19 @@
+# Spotify API Project
+
+This project fetches data from Spotify's Web API to display top tracks and artists through clicking diffrent choices in the top left nav section.
+
+## Features
+- Navigation between "Top Tracks" and "Top Artists" pages.
+- Data fetched dynamically using Spotify's API.
+
+## Setup
+1. Clone the repository.
+2. Replace `YOUR_SPOTIFY_CLIENT_ID` and `YOUR_SPOTIFY_CLIENT_SECRET` in the .env file with your Spotify credentials.
+
+## How to Run
+1. Open `ht.html` in a web browser.
+2. Use the navigation menu to view data.
+
+## Requirements
+- Web browser with JavaScript enabled.
+- Spotify developer credentials.
